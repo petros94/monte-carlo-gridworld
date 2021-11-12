@@ -2,6 +2,8 @@
 
 A simple example of Monte Carlo Reinforcement Learning in a Gridworld.
 
+![GridWorld](screenshots/gridworld.png)
+
 ### Environment Description
 
 The environment is a 3x4 grid world with two terminal states (green: +1, red: -1).
