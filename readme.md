@@ -13,7 +13,7 @@ The agent can move in every direction (up, down, left, right). However, the envi
 
 ### Agent Description
 
-The agent uses Monte Carlo to reach the optimal policy.
+The agent uses Monte Carlo (with ε-greedy) to reach the optimal policy.
 
 It generates 5 episodes with the current policy, 
 then evaluates the policy using the mean sum of expected discounted rewards for each state.
